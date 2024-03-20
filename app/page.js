@@ -10,6 +10,10 @@ export default function Home() {
           Vín & Vínkynningar 🍷<br />
           laufasvin@laufasvin.is<br />
           846 7421<br />
+          <br />
+          Með brennandi áhuga og ást á vínum stofnuðum við Laufás Vín. Við
+          elskum góð vín, lifandi vín, vín sem segja sögur og skilja eitthvað
+          eftir sig.
         </p>
       </div>
     </main>
