@@ -11,9 +11,10 @@ export default function Home() {
           laufasvin@laufasvin.is<br />
           846 7421<br />
           <br />
-          Með brennandi áhuga og ást á vínum stofnuðum við Laufás Vín. Við
-          elskum góð vín, lifandi vín, vín sem segja sögur og skilja góðar
-          minningar eftir sig.
+          Af einlægum brennandi áhuga og ást á vínum stofnuðum við Laufás Vín.
+          Við elskum góð vín, einstök og lifandi vín, vín sem segja sögur og
+          sýna hvaðan þau koma og hvernig þau voru gerð. Framar öllu elskum við
+          að njóta vína á góðum stundum með góðu fólki.
         </p>
       </div>
     </main>
