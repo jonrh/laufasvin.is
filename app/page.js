@@ -12,8 +12,8 @@ export default function Home() {
           846 7421<br />
           <br />
           Með brennandi áhuga og ást á vínum stofnuðum við Laufás Vín. Við
-          elskum góð vín, lifandi vín, vín sem segja sögur og skilja eitthvað
-          eftir sig.
+          elskum góð vín, lifandi vín, vín sem segja sögur og skilja góða
+          minningu eftir sig.
         </p>
       </div>
     </main>
