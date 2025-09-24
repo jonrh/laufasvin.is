@@ -8,7 +8,6 @@ export default function Home() {
 
         <p className={`m-0 max-w-[30ch] text-sm text-center opacity-50`}>
           Vín & Vínkynningar 🍷<br />
-          laufasvin@laufasvin.is<br />
           846 7421<br />
           <br />
           Af einlægum brennandi áhuga og ást á vínum stofnuðum við Laufás Vín.
